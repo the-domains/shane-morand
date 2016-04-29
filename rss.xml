@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SHANE MORAND]]></title>
+        <description><![CDATA[SHANE MORAND]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Apr 2016 19:08:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shane Morand ]]></title>
+            <description><![CDATA[<p>Everyone here at Organo Gold is a big fan of our Co-Founder and Global Master Distributor Shane Morand. His infectious and unfailing enthusiasm and dedication have made him one of the pillars of success in the direct selling industry.</p>]]></description>
+            <link>undefinedshane-morand/index.html</link>
+            <guid isPermaLink="false">caa023c5-f6c1-4b1f-ad6a-c1d8f29e19b3</guid>
+            <pubDate>Fri, 29 Apr 2016 19:08:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
